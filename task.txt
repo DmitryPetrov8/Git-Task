@@ -13,3 +13,5 @@
 88888
 
 content for stash
+
+content for reset
